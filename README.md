@@ -1,2 +1,3 @@
 # flex-box
-Practicing with Flex Box
+
+Practicing with Flex Box and Responsive Designs
